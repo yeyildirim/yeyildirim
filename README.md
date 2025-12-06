@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">👋 Merhaba, ben Yunus Emre Yıldırım</h1>
 
-<!--
-**yeyildirim/yeyildirim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧑‍💻 <strong>Flutter Developer</strong> • 🚀 <strong>Mobile App Builder</strong> • 🔥 <strong>Firebase Enthusiast</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+
+- 📱 Flutter ile iOS ve Android uygulamaları geliştiriyorum  
+- ☁️ Firebase (Auth, Firestore, Storage, FCM) altyapısını aktif kullanıyorum  
+- 🎯 Odaklandığım proje: **DentistApp** — diş klinikleri için çok yönlü yönetim sistemi  
+- 💡 Tasarım + yazılım + ürün geliştirme süreçlerini birlikte yönetmeyi seviyorum
+
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,html,css,js,github,git,vscode" />
+</p>
+
+---
+
+## 📌 Öne Çıkan Projeler
+
+### 🦷 DentistApp
+Flutter + Firebase ile geliştirilmiş hasta ve klinik yönetim uygulaması  
+🔗 https://github.com/yeyildirim/dentistapp
+
+---
+
+### 🖥️ DentistApp Site
+Uygulamanın tanıtım ve satış sitesi  
+🔗 https://github.com/yeyildirim/dentistapp-site
+
+---
+
+### 🤖 Style Assistant AI
+Görsellerdeki stil bileşenlerini algılayan yapay zeka projesi  
+🔗 https://github.com/yeyildirim/style_assistant
+
+---
+
+## 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeyildirim&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeyildirim&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 İletişim
+
+📧 Mail: **yns.emr004@gmail.com**
+
+---
+
+<div align="center">
+  
+🚀 Yeni projeler ve geliştirmeler yakında burada.
+
+</div>
