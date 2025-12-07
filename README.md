@@ -27,19 +27,16 @@
 
 ### 🦷 DentistApp
 Flutter + Firebase ile geliştirilmiş hasta ve klinik yönetim uygulaması  
-🔗 https://github.com/yeyildirim/dentistapp
 
 ---
 
 ### 🖥️ DentistApp Site
 Uygulamanın tanıtım ve satış sitesi  
-🔗 https://github.com/yeyildirim/dentistapp-site
 
 ---
 
 ### 🤖 Style Assistant AI
 Görsellerdeki stil bileşenlerini algılayan yapay zeka projesi  
-🔗 https://github.com/yeyildirim/style_assistant
 
 ---
 
